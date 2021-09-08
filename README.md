@@ -5,3 +5,7 @@
 ### Assignment 2 CS 648
     Basic website for Vecta Corporation
 
+##This repo demonstrates the use of the following tags:
+
+Section Tags
+Inline Tags
